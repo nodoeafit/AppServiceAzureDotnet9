@@ -31,3 +31,4 @@
 /Users/alvaroperez/Desktop/AppServiceAzureDotnet9/AppServiceAzureDotnet9/obj/Debug/net9.0/AppServiceAzureDotnet9.pdb
 /Users/alvaroperez/Desktop/AppServiceAzureDotnet9/AppServiceAzureDotnet9/obj/Debug/net9.0/AppServiceAzureDotnet9.genruntimeconfig.cache
 /Users/alvaroperez/Desktop/AppServiceAzureDotnet9/AppServiceAzureDotnet9/obj/Debug/net9.0/ref/AppServiceAzureDotnet9.dll
+/Users/alvaroperez/Desktop/AppServiceAzureDotnet9/AppServiceAzureDotnet9/obj/Debug/net9.0/AppServiceAzureDotnet9.sourcelink.json
