@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XY9wg4LXZaE=",
+  "success": true,
+  "projectFilePath": "/Users/alvaroperez/Desktop/AppServiceAzureDotnet9/AppServiceAzureDotnet9/AppServiceAzureDotnet9.csproj",
+  "expectedPackageFiles": [
+    "/Users/alvaroperez/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/alvaroperez/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
